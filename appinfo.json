@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "andrewjamest1993@gmail.com",
+    "longName": "watchFace",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "watchFace",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "27462f14-8c4d-4b1c-905e-cad79f7756e9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
